@@ -1,0 +1,3 @@
+take most recent personal buy price plus spread desired as target for selling
+sell total balance
+if most recent trade is <= recent personal buy price then go into emergency mode

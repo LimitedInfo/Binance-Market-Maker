@@ -1,0 +1,5 @@
+while the market is decreasing less than x percent for y amount of time.
+And if the spread between significant bid and ask price is greater than s.
+buy z amount of coins while balance is greater than z.
+if balance is less than z wait. then when balance is greater run from start.
+
